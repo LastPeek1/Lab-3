@@ -24,7 +24,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/telegram-voice-to-text-bot.git
+   git clone https://github.com/LastPeek1/Lab-3.git
    ```
 2. Перейдите в директорию проекта:
    ```bash
@@ -34,13 +34,7 @@
    ```bash
    pip install -r requirements.txt
    ```
-   **Примечание:** В файле `requirements.txt` должны быть прописаны следующие зависимости:
-   ```
-   git+https://github.com/openai/whisper.git
-   pyTelegramBotAPI
-   pydub
-   torch
-   ```
+   
 
 ## Запуск
 
